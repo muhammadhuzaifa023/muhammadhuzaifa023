@@ -11,6 +11,8 @@ Feel free to connect with me on LinkedIn or explore my GitHub repositories to se
 
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhuzaifa023&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+![Muhammad Huzaifa GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhuzaifa023&show_icons=true&theme=radical)
+
 
 Let's connect and share our experiences in the world of software development
 
