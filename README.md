@@ -79,7 +79,7 @@ Let's connect and share our experiences in the world of software development
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhuzaifa023&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 </div>
 
 <br/><br/>
