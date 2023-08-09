@@ -79,7 +79,7 @@ Let's connect and share our experiences in the world of software development
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/muhammadhuzaifa023/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
