@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi there, I'm Muhammad Huzaifa  👋;" />
-</h1>
+# Hi there, I'm Muhammad Huzaifa  👋
 🌱 I'm on a continuous learning journey, diving into various technologies and expanding my skillset.
 
 🥅 In 2023, my goal is to dive deeper into Power Platform and leverage its capabilities to build amazing solutions.
