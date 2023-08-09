@@ -10,7 +10,7 @@ Feel free to connect with me on LinkedIn or explore my GitHub repositories to se
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=LinkedIn)](https://www.linkedin.com/in/muhammad-huzaifa-90b7ab1b4/) [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-red?logo=Gmail)](mailto:muhammadhuzaifa023@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=Facebook)](https://www.facebook.com/profile.php?id=100008953412577) [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?logo=Instagram)](https://www.instagram.com/muhammadhuzaifa023/)
 
 <br><br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhuzaifa023&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhuzaifa023&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=478)](https://git.io/streak-stats)
 ![Muhammad Huzaifa GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhuzaifa023&show_icons=true&theme=radical)
 
 
