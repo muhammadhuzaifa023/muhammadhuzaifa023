@@ -80,8 +80,6 @@ Let's connect and share our experiences in the world of software development
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhuzaifa023&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-</div>
-
 <br/><br/>
 <hr/>
 
