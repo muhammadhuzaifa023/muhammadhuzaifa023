@@ -4,7 +4,7 @@
 
 Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of Technology Affiliated With NED University. Throughout my academic journey, I learned various technology stacks including Machine Learning, Deep Learning, Image Processing, DotNet, and more. I also have experience in creating various projects, ensuring they are properly documented and structured.🎓💻
 
-> ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
+
 
 <h3 align="center">Tech Enthusiast | Front-end Developer | Open-Source Contributor </h3>
    <div align="center">
