@@ -49,7 +49,7 @@ Let's connect and share our experiences in the world of software development
 
 ## Python Frameworks
 
-[![](https://img.shields.io/badge/Django-%23092E20?logo=Django)](https://www.djangoproject.com/)[![](https://img.shields.io/badge/Flask-%23000?logo=Flask)](https://flask.palletsprojects.com/)  
+[![](https://img.shields.io/badge/Django-%23092E20?logo=Django)](https://www.djangoproject.com/) | [![](https://img.shields.io/badge/Flask-%23000?logo=Flask)](https://flask.palletsprojects.com/)  
    
 [![](https://img.shields.io/badge/FastAPI-%23007D9E?logo=FastAPI)](https://fastapi.tiangolo.com/) | [![](https://img.shields.io/badge/Pyramid-%234f0b0b?logo=Pyramid)](https://trypyramid.com/)
    
