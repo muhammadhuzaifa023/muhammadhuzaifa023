@@ -49,16 +49,15 @@ Let's connect and share our experiences in the world of software development
 
 ## Python Frameworks
 
-
-    [![](https://img.shields.io/badge/Django-%23092E20?logo=Django)](https://www.djangoproject.com/) | [![](https://img.shields.io/badge/Flask-%23000?logo=Flask)](https://flask.palletsprojects.com/)  
+[![](https://img.shields.io/badge/Django-%23092E20?logo=Django)](https://www.djangoproject.com/) | [![](https://img.shields.io/badge/Flask-%23000?logo=Flask)](https://flask.palletsprojects.com/)  
    
-    [![](https://img.shields.io/badge/FastAPI-%23007D9E?logo=FastAPI)](https://fastapi.tiangolo.com/) | [![](https://img.shields.io/badge/Pyramid-%234f0b0b?logo=Pyramid)](https://trypyramid.com/)
+[![](https://img.shields.io/badge/FastAPI-%23007D9E?logo=FastAPI)](https://fastapi.tiangolo.com/) | [![](https://img.shields.io/badge/Pyramid-%234f0b0b?logo=Pyramid)](https://trypyramid.com/)
    
-    [![](https://img.shields.io/badge/Tornado-%23004e82?logo=Tornado)](https://www.tornadoweb.org/) | [![](https://img.shields.io/badge/Falcon-%23194587?logo=Falcon)](https://falconframework.org/)
+[![](https://img.shields.io/badge/Tornado-%23004e82?logo=Tornado)](https://www.tornadoweb.org/) | [![](https://img.shields.io/badge/Falcon-%23194587?logo=Falcon)](https://falconframework.org/)
    
-    [![](https://img.shields.io/badge/Sanic-%2357A143?logo=Sanic)](https://sanicframework.org/) | [![](https://img.shields.io/badge/Bottle-%23FF6600?logo=Bottle)](https://bottlepy.org/docs/dev/)
+[![](https://img.shields.io/badge/Sanic-%2357A143?logo=Sanic)](https://sanicframework.org/) | [![](https://img.shields.io/badge/Bottle-%23FF6600?logo=Bottle)](https://bottlepy.org/docs/dev/)
    
-    [![](https://img.shields.io/badge/CherryPy-%23dc5e4b?logo=CherryPy)](https://cherrypy.org/) | [![](https://img.shields.io/badge/Web2py-%23621a1a?logo=Web2py)](https://www.web2py.com/) 
+[![](https://img.shields.io/badge/CherryPy-%23dc5e4b?logo=CherryPy)](https://cherrypy.org/) | [![](https://img.shields.io/badge/Web2py-%23621a1a?logo=Web2py)](https://www.web2py.com/) 
 
 ## Power PowerPlatform
 1) [![](https://img.shields.io/badge/Power%20Apps-%235BB8FF?logo=PowerApps)](https://powerapps.microsoft.com/)
