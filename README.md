@@ -9,7 +9,7 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
 <h3 align="center"> C# || .MVC || Entity Framework Core || Python || Power Platform  D365 || PowerApp ||  Dataverse || Power BI || Data Scientist || Data Analytics </h3>
    <div align="center">
 
- <h1 align="center">Connect with me</h1>
+ <h1 align="center">Connect with me  🔗</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=LinkedIn)](https://www.linkedin.com/in/muhammad-huzaifa-90b7ab1b4/) [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-red?logo=Gmail)](mailto:muhammadhuzaifa023@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=Facebook)](https://www.facebook.com/profile.php?id=100008953412577) [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?logo=Instagram)](https://www.instagram.com/muhammadhuzaifa023/)
 
