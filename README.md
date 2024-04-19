@@ -32,7 +32,7 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
 
 ## Power PowerPlatform
 [![](https://img.shields.io/badge/Power%20Apps-%235BB8FF?logo=PowerApps)](https://powerapps.microsoft.com/) | [![](https://img.shields.io/badge/Power%20Automate-%2372C5FA?logo=PowerAutomate)](https://flow.microsoft.com/) | [![](https://img.shields.io/badge/Power%20BI-%23F2C811?logo=PowerBI)](https://powerbi.microsoft.com/) | [![](https://img.shields.io/badge/Power%20Virtual%20Agents-%237BC043?logo=PowerVirtualAgents)](https://powervirtualagents.microsoft.com/)
-
+# Badges
 [![An image of @muhammadhuzaifa023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadhuzaifa023)](https://holopin.io/@muhammadhuzaifa023)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
