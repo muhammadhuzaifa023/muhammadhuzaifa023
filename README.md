@@ -1,11 +1,15 @@
 # Hi there, I'm Muhammad Huzaifa  👋
-🌱 I'm on a continuous learning journey, diving into various technologies and expanding my skillset.
+<!-- <h3>About me,</h3> -->
+<h1 align="center"> About me</h1>
 
-🥅 In 2023, my goal is to dive deeper into Power Platform and leverage its capabilities to build amazing solutions.
+Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of Technology Affiliated With NED University. Throughout my academic journey, I learned various technology stacks including Machine Learning, Deep Learning, Image Processing, DotNet, and more. I also have experience in creating various projects, ensuring they are properly documented and structured.🎓💻
 
-⚡ Fun fact: When I'm not coding, you can find me lost in the world of music, grooving to different tunes.
+> ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
 
-Feel free to connect with me on LinkedIn or explore my GitHub repositories to see what I've been working on!
+<h3 align="center">Tech Enthusiast | Front-end Developer | Open-Source Contributor </h3>
+   <div align="center">
+
+ <h1 align="center">Connect with me</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=LinkedIn)](https://www.linkedin.com/in/muhammad-huzaifa-90b7ab1b4/) [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-red?logo=Gmail)](mailto:muhammadhuzaifa023@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=Facebook)](https://www.facebook.com/profile.php?id=100008953412577) [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?logo=Instagram)](https://www.instagram.com/muhammadhuzaifa023/)
 
