@@ -17,7 +17,7 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
 #  GitHub Analytics  📊
 [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhuzaifa023&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=478)](https://git.io/streak-stats)
 ![Muhammad Huzaifa GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhuzaifa023&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifa023&layout=compact&theme=radical)](https://github.com/muhammadhuzaifa023)
 
 Let's connect and share our experiences in the world of software development
 
