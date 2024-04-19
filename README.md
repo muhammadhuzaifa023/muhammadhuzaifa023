@@ -60,13 +60,9 @@ Let's connect and share our experiences in the world of software development
 [![](https://img.shields.io/badge/CherryPy-%23dc5e4b?logo=CherryPy)](https://cherrypy.org/) | [![](https://img.shields.io/badge/Web2py-%23621a1a?logo=Web2py)](https://www.web2py.com/) 
 
 ## Power PowerPlatform
-1) [![](https://img.shields.io/badge/Power%20Apps-%235BB8FF?logo=PowerApps)](https://powerapps.microsoft.com/)
+[![](https://img.shields.io/badge/Power%20Apps-%235BB8FF?logo=PowerApps)](https://powerapps.microsoft.com/)  |  [![](https://img.shields.io/badge/Power%20Automate-%2372C5FA?logo=PowerAutomate)](https://flow.microsoft.com/)
 
-2) [![](https://img.shields.io/badge/Power%20Automate-%2372C5FA?logo=PowerAutomate)](https://flow.microsoft.com/)
-
-3) [![](https://img.shields.io/badge/Power%20BI-%23F2C811?logo=PowerBI)](https://powerbi.microsoft.com/)
-
-4) [![](https://img.shields.io/badge/Power%20Virtual%20Agents-%237BC043?logo=PowerVirtualAgents)](https://powervirtualagents.microsoft.com/)
+[![](https://img.shields.io/badge/Power%20BI-%23F2C811?logo=PowerBI)](https://powerbi.microsoft.com/)  |   [![](https://img.shields.io/badge/Power%20Virtual%20Agents-%237BC043?logo=PowerVirtualAgents)](https://powervirtualagents.microsoft.com/)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
