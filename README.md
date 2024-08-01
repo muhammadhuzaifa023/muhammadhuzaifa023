@@ -19,6 +19,11 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
 ![Muhammad Huzaifa GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhuzaifa023&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifa023&layout=compact&theme=radical)](https://github.com/muhammadhuzaifa023)
 
+
+## Programming Libraries and Frameworks 🖥️
+
+[![](https://img.shields.io/badge/C%23-%23239120?logo=C-Sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/) | [![](https://img.shields.io/badge/ASP.NET-%235C2D91?logo=dotnet)](https://dotnet.microsoft.com/apps/aspnet) | [![](https://img.shields.io/badge/.NET%20Core-%2305126a?logo=dotnet)](https://docs.microsoft.com/en-us/dotnet/core/) | [![](https://img.shields.io/badge/Entity%20Framework-%23723398?logo=dotnet)](https://docs.microsoft.com/en-us/ef/) | [![](https://img.shields.io/badge/MVC-%23037aca?logo=dotnet)](https://dotnet.microsoft.com/apps/aspnet/mvc)
+
 ## Python Library  🐍
 
 [![](https://img.shields.io/badge/Pandas-%237a36c9?logo=Pandas)](https://pandas.pydata.org/) | [![](https://img.shields.io/badge/NumPy-%23209bdc?logo=NumPy)](https://numpy.org/) | [![](https://img.shields.io/badge/SciKit--Image-%23f6a431?logo=SciKit-Image)](https://scikit-image.org/) | [![](https://img.shields.io/badge/Matplotlib-%23eb8f34?logo=Matplotlib)](https://matplotlib.org/) | [![](https://img.shields.io/badge/Seaborn-%236abf8c?logo=Seaborn)](https://seaborn.pydata.org/) | [![](https://img.shields.io/badge/TensorFlow-%23f5892f?logo=TensorFlow)](https://www.tensorflow.org/) | [![](https://img.shields.io/badge/PyTorch-%23ee4c2c?logo=PyTorch)](https://pytorch.org/) | [![](https://img.shields.io/badge/OpenCV-%2374acdf?logo=OpenCV)](https://opencv.org/) | [![](https://img.shields.io/badge/Pillow-%236d8a88?logo=Pillow)](https://python-pillow.org/) | [![](https://img.shields.io/badge/imageio-%23ff6347?logo=imageio)](https://imageio.readthedocs.io/) | [![](https://img.shields.io/badge/PyTorch%20Lightning%20Bolt-%23ffcc80?logo=PyTorch)](https://pytorch-lightning-bolts.readthedocs.io/) | [![](https://img.shields.io/badge/mahotas-%23159ecc?logo=mahotas)](https://mahotas.readthedocs.io/) | [![](https://img.shields.io/badge/scikit--video-%2384d084?logo=scikit-learn)](https://www.scikit-video.org/)
