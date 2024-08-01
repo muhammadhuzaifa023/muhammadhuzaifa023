@@ -20,7 +20,7 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifa023&layout=compact&theme=radical)](https://github.com/muhammadhuzaifa023)
 
 
-## Programming Libraries and Frameworks 🖥️
+## C# Libraries and Frameworks 🖥️
 
 [![](https://img.shields.io/badge/C%23-%23239120?logo=C-Sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/) | [![](https://img.shields.io/badge/ASP.NET-%235C2D91?logo=dotnet)](https://dotnet.microsoft.com/apps/aspnet) | [![](https://img.shields.io/badge/.NET%20Core-%2305126a?logo=dotnet)](https://docs.microsoft.com/en-us/dotnet/core/) | [![](https://img.shields.io/badge/Entity%20Framework-%23723398?logo=dotnet)](https://docs.microsoft.com/en-us/ef/) | [![](https://img.shields.io/badge/MVC-%23037aca?logo=dotnet)](https://dotnet.microsoft.com/apps/aspnet/mvc)
 
