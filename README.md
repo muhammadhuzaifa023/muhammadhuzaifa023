@@ -6,7 +6,7 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
 
 
 
-<h3 align="center"> C# || ASP.NET || .MVC || Entity Framework Core || Python || Power Platform  D365 || PowerApp ||  Dataverse || Power BI || Data Scientist || Data Analytics </h3>
+<h3 align="center"> C# || ASP.NET || .MVC || Entity Framework Core (EF) || Python || Power Platform  D365 || PowerApp ||  Dataverse || Power BI || Data Scientist || Data Analytics </h3>
    <div align="center">
 
  <h1 align="center">Connect with me  🔗</h1>
