@@ -49,7 +49,9 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
-![Snake Animation](https://github.com/muhammadhuzaifa023/muhammadhuzaifa023/blob/output/snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadhuzaifa023/muhammadhuzaifa023/output/snake.svg" alt="Snake Animation" />
+</p>
 
 
 
