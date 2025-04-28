@@ -50,7 +50,7 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
 <div align="center">
-  ![Snake](https://raw.githubusercontent.com/muhammadhuzaifa023/muhammadhuzaifa023/output/snake.svg)
+  <img src="https://raw.githubusercontent.com/muhammadhuzaifa023/muhammadhuzaifa023/output/snake.svg" width="100%" alt="Snake animation"/>
 </div>
 
 
