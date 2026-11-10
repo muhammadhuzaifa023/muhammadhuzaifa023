@@ -55,10 +55,6 @@ Power Apps · Power Automate · Dataverse · SQL Server · Git
 </tr>
 </table>
 
- <h1 align="center">Connect with me  🔗</h1>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=LinkedIn)](https://www.linkedin.com/in/muhammad-huzaifa-90b7ab1b4/) [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-red?logo=Gmail)](mailto:muhammadhuzaifa023@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=Facebook)](https://www.facebook.com/profile.php?id=100008953412577) [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?logo=Instagram)](https://www.instagram.com/muhammadhuzaifa023/)
-
 <br><br>
 ## GitHub Analytics
 
