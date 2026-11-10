@@ -54,6 +54,7 @@ Power Apps · Power Automate · Dataverse · SQL Server · Git
 </td>
 </tr>
 </table>
+
 ## GitHub Analytics
 
 <div align="center">
