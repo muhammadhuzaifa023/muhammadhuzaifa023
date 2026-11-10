@@ -14,8 +14,39 @@ I am a Software Engineer and graduate of **Usman Institute of Technology, affili
 
 
 
-<h3 align="center"> C# || ASP.NET || .MVC || Entity Framework Core (EF) || Python || Power Platform  D365 || PowerApp ||  Dataverse || Power BI || Data Scientist || Data Analytics </h3>
-   <div align="center">
+## Core Technologies
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C Sharp and dotnet">
+
+ASP.NET Core · MVC · REST APIs · Entity Framework Core · Dapper
+
+</td>
+<td valign="top" width="33%">
+
+**Data & AI**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="Python TensorFlow PyTorch OpenCV">
+
+Python · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch
+
+</td>
+<td valign="top" width="33%">
+
+**Platform & Tools**
+
+<img src="https://skillicons.dev/icons?i=powerbi,git,github,vscode,visualstudio" alt="Power BI Git GitHub VS Code Visual Studio">
+
+Power Apps · Power Automate · Dataverse · SQL Server · Git
+
+</td>
+</tr>
+</table>
 
  <h1 align="center">Connect with me  🔗</h1>
 
