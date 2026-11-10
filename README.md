@@ -63,7 +63,7 @@ Power Apps · Power Automate · Dataverse · SQL Server · Git
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifa023&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&ring_color=C77B9B" alt="">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifa023&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most used languages">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifa023&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="">
 </div>
 
 <div align="center">
