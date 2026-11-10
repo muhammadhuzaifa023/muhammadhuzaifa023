@@ -5,7 +5,12 @@
 
 ![Muhammad Huzaifa's Profile Image](Img/Github%20Profile%20Image.jpg)
 
-Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of Technology Affiliated With NED University. Throughout my academic journey, I learned various technology stacks including Machine Learning, Deep Learning, Image Processing, DotNet, and more. I also have experience in creating various projects, ensuring they are properly documented and structured.🎓💻
+I am a Software Engineer and graduate of **Usman Institute of Technology, affiliated with NED University**. I build maintainable software applications and explore practical solutions across backend development, data analysis, machine learning, image processing, and Microsoft Power Platform.
+
+- Building backend systems with **C#, .NET, ASP.NET Core/MVC, REST APIs, and Entity Framework Core**
+- Working with **Python, data analysis, machine learning, deep learning, and computer vision**
+- Exploring business solutions with **Power Apps, Power Automate, Power BI, Dataverse, and Dynamics 365**
+- Focused on clean architecture, documentation, and reliable engineering practices
 
 
 
