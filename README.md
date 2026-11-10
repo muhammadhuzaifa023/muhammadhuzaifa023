@@ -4,6 +4,13 @@
 
 
 ![Muhammad Huzaifa's Profile Image](Img/Github%20Profile%20Image.jpg)
+### .NET Developer · Python & Data Enthusiast · Power Platform
+
+<a href="https://www.linkedin.com/in/muhammad-huzaifa-90b7ab1b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:muhammadhuzaifa023@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-451126?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/muhammadhuzaifa023"><img src="https://img.shields.io/badge/GitHub-Profile-190B12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+</div>
 
 I am a Software Engineer and graduate of **Usman Institute of Technology, affiliated with NED University**. I build maintainable software applications and explore practical solutions across backend development, data analysis, machine learning, image processing, and Microsoft Power Platform.
 
