@@ -71,7 +71,7 @@ Power Apps · Power Automate · Dataverse · SQL Server · Git
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhuzaifa023&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&area_color=451126&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhuzaifa023&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&area_color=451126&hide_border=true&custom_title=Contribution%20Activity" alt="">
 </div>
 
 <div align="center">
