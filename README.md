@@ -17,10 +17,30 @@ Hi my name is  <b>Muhammad Huzaifa</b> and I graduated from Usman Institute Of T
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=LinkedIn)](https://www.linkedin.com/in/muhammad-huzaifa-90b7ab1b4/) [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-red?logo=Gmail)](mailto:muhammadhuzaifa023@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=Facebook)](https://www.facebook.com/profile.php?id=100008953412577) [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?logo=Instagram)](https://www.instagram.com/muhammadhuzaifa023/)
 
 <br><br>
-#  GitHub Analytics  📊
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadhuzaifa023&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=478)](https://git.io/streak-stats)
-![Muhammad Huzaifa GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhuzaifa023&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifa023&layout=compact&theme=radical)](https://github.com/muhammadhuzaifa023)
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhuzaifa023&theme=radical" alt="GitHub contribution summary">
+</div>
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=muhammadhuzaifa023&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&ring_color=C77B9B" alt="GitHub statistics">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhuzaifa023&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most used languages">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammadhuzaifa023&theme=dark&hide_border=true&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7&sideLabels=F8F0F3&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=C77B9B" alt="GitHub contribution streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhuzaifa023&bg_color=10070C&color=F8F0F3&line=C77B9B&point=E5B5C7&area=true&area_color=451126&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhuzaifa023&theme=radical" alt="Repositories by language">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadhuzaifa023&theme=radical" alt="Most committed languages">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadhuzaifa023&theme=radical" alt="GitHub profile statistics">
+</div>
 
 
 ## C# Libraries and Frameworks 🖥️
